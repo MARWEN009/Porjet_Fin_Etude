@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863456580001",
+    "firebase_url": "https://esp32-data-27fbf-default-rtdb.firebaseio.com",
+    "project_id": "esp32-data-27fbf",
+    "storage_bucket": "esp32-data-27fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863456580001:android:ee3282807ba10c20dc7be0",
+        "android_client_info": {
+          "package_name": "com.example.controleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863456580001-8a9946r10n28ioouu9t6t1jevhs4npc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controleapp",
+            "certificate_hash": "9ca52c61b778b6ae5014c49232e5b1519fb40547"
+          }
+        },
+        {
+          "client_id": "863456580001-n0pt5im611sia9rti08s6kb524efnpvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6w5Mg2xyo-ZmzNPXZ9LuPAj2LCJ2LQCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863456580001-n0pt5im611sia9rti08s6kb524efnpvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
